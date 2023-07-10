@@ -1,0 +1,84 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/Anasayfa.html
+Subject: Anasayfa
+Date: Mon, 10 Jul 2023 10:26:31 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZqGl1wxgQ2A8p4Olj9rSM2rGc8Qjtqy3OvdotKKN0o----"
+
+
+------MultipartBoundary--ZqGl1wxgQ2A8p4Olj9rSM2rGc8Qjtqy3OvdotKKN0o----
+Content-Type: text/html
+Content-ID: <frame-C7DE24AF992FB930F6F4A8C575BF6A03@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/Anasayfa.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Anasayfa</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/odev1.css">
+
+
+</head>
+<body>
+
+    <h1>M=C3=BCzik D=C3=BCkkan=C4=B1m</h1>
+    <nav>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Anasayfa.html">Ana Sayfa</a>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Urunlerimiz.html">=C3=9Cr=C3=BCnlerimiz<=
+/a>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Hakkimizda.html">Hakk=C4=B1m=C4=B1zda</a=
+>
+    </nav>
+    <div>
+        <h2>Ana Sayfa</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione=
+ quis similique id, laborum ad laboriosam obcaecati. Dolorum sit tempore re=
+iciendis?</p>
+    </div>
+    <article>
+        <h4>Sitemizde bulunan m=C3=BCzik aletleri</h4>
+        <ul class=3D"productList">
+            <li>Gitar</li>
+            <li>Piyano</li>
+            <li>Davul</li>
+            <li>Keman</li>
+        </ul>
+    </article>
+   =20
+   =20
+
+</body></html>
+------MultipartBoundary--ZqGl1wxgQ2A8p4Olj9rSM2rGc8Qjtqy3OvdotKKN0o----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/odev1.css
+
+@charset "utf-8";
+
+h1 { color: rgb(97, 0, 148); text-align: center; }
+
+h2 { color: rgb(63, 0, 113); text-align: center; }
+
+nav { text-align: center; }
+
+a { margin: 10px; }
+
+p { text-align: center; }
+
+div { list-style-position: inside; text-align: center; }
+
+h4 { color: rgb(21, 0, 80); }
+
+.product-list { font-size: 14px; }
+
+article { list-style-position: inside; text-align: center; }
+------MultipartBoundary--ZqGl1wxgQ2A8p4Olj9rSM2rGc8Qjtqy3OvdotKKN0o------

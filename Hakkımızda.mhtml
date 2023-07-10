@@ -1,0 +1,77 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/Hakkimizda.html
+Subject: =?utf-8?Q?Hakk=C4=B1m=C4=B1zda?=
+Date: Mon, 10 Jul 2023 10:26:44 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QMW0fnwnON22iqnYqhNNaksPPY0LNWrLPn7HpKagCI----"
+
+
+------MultipartBoundary--QMW0fnwnON22iqnYqhNNaksPPY0LNWrLPn7HpKagCI----
+Content-Type: text/html
+Content-ID: <frame-5178FC98DA8AE8932597788B224A830F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/Hakkimizda.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Hakk=C4=B1m=C4=B1zda</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/hakkimizda.css">
+
+</head>
+<body>
+    <h1>M=C3=BCzik D=C3=BCkkan=C4=B1m</h1>
+    <nav>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Hakkimizda.html">Ana Sayfa</a>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Urunlerimiz.html">=C3=9Cr=C3=BCnlerimiz<=
+/a>
+        <a target=3D"_blank" href=3D"file:///C:/Users/dilar/OneDrive/Masa%C=
+3%BCst%C3%BC/css101patika/cssodev1/Hakkimizda.html">Hakk=C4=B1m=C4=B1zda</a=
+>
+    </nav>
+    <div>
+        <h2>Hakk=C4=B1m=C4=B1zda</h2>
+    </div>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores=
+ explicabo soluta unde.</p>
+    </div>
+    <article>
+        <h3>Vizyonumuz</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim de=
+leniti expedita excepturi reiciendis odio nostrum quo ratione, sunt digniss=
+imos, nihil quidem. Officiis, numquam.</p>
+    </article>
+    <article>
+        <h3>Misyonumuz</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliqua=
+m cum debitis alias quo iste! Necessitatibus, a est. Architecto impedit qua=
+m ut. Omnis harum impedit quisquam.</p>
+    </article>
+   =20
+
+</body></html>
+------MultipartBoundary--QMW0fnwnON22iqnYqhNNaksPPY0LNWrLPn7HpKagCI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/dilar/OneDrive/Masa%C3%BCst%C3%BC/css101patika/cssodev1/hakkimizda.css
+
+@charset "utf-8";
+
+h1 { color: rgb(97, 0, 148); text-align: center; }
+
+nav { text-align: center; }
+
+a { margin: 10px; }
+
+h3 { color: rgb(25, 72, 148); }
+
+h2 { text-align: center; color: rgb(63, 0, 113); }
+------MultipartBoundary--QMW0fnwnON22iqnYqhNNaksPPY0LNWrLPn7HpKagCI------
