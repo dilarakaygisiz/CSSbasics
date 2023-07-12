@@ -1,0 +1,60 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+
+.centered{
+    text-align: center;
+    
+}
+p{
+    font-size: 19px;
+}
+.box{
+    width: 40%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.btn{
+    display: block;
+}
+
+table{
+width: 90%;
+    margin: auto;
+}
+td{
+    background-color: rgb(238, 238, 238);
+}
+tr{
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.container{
+    width: 1140px;
+    margin: auto;
+}
+
+.card{
+    width: 20%;
+    float: left;
+    padding: 3%;
+margin-left: 5px;
+margin-right: auto;
+    align-items: center;
+    
+    background-color:#70CCC2;
+}
+.font{
+    font-size: 12px;
+}
+center{
+    display: block;
+    text-align: center;
+}
+
+
